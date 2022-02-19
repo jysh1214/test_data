@@ -1,1 +1,0 @@
-sobel test output
